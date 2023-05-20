@@ -1,0 +1,11 @@
+*.tar
+tmp/
+notebooks/
+__pycache__/
+.ipynb_checkpoints/
+scripts/run_*.sh
+test*
+*frame2state*
+exp_local/*
+*.png
+encoder_pretrained/*
