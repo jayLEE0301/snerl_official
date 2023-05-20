@@ -1,6 +1,6 @@
 # SNeRL
 
-This is the official PyTorch implementation of the paper SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning" (ICML 2023). [[paper](https://arxiv.org/abs/2301.11520)]
+This is the official PyTorch implementation of the paper "SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning" (ICML 2023). [[paper](https://arxiv.org/abs/2301.11520)]
 
 ## Setup Instructions
 0. Create a conda environment:
