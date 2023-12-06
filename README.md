@@ -2,6 +2,13 @@
 
 This is the official PyTorch implementation of the paper "SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning" (ICML 2023). [[paper](https://arxiv.org/abs/2301.11520)]
 
+## Dataset
+We provide dataset for two environments (Drawer, Soccer).
+
+[Drawer](https://drive.google.com/file/d/1mUDFkjbXlMd8UCaaFTEEe7ZKdIl7uKpt/view?usp=sharing)
+
+[Soccer](https://drive.google.com/file/d/1wGDuJ3HES8807wMss_BFSLcrzQeZ3LcJ/view?usp=sharing)
+
 ## Setup Instructions
 0. Create a conda environment:
 ```
